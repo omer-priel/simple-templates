@@ -3,7 +3,7 @@
 #include "example.h"
 
 /**
- * @brief Entry point to the application
+ * @brief Entry point of the application
  *
  * @param argc count of args
  * @param argv the args

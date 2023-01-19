@@ -6,6 +6,8 @@ Description
 
 - OS: Linux
 - make
+- gcc
+- valgrind
 
 ## Get Started
 
@@ -29,7 +31,7 @@ Or
 
 ## Authors
 
-- Omer Priel
+- Author Name
 
 ## License
 

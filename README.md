@@ -4,16 +4,21 @@ A simple project templates for students
 
 ## Get Started
 
-Clone this project and copy the project template that you wants from 'projects'
+Clone this project go into projects folder \
+Copy the project template that you wants \
+And change "Author Name" in REAME and LICENSE to yours \
+In addion, update the year (2023) in LICENSE
 
 ## Templates
 
-### example
+### c-template
 
-## License
-
-MIT
+A template for C projects. Support VS Code
 
 ## Author
 
 Omer Priel
+
+## License
+
+MIT

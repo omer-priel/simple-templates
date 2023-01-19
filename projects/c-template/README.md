@@ -14,7 +14,7 @@ Description
 Run the following commands for the build the application:
 
 ```bash
-make build
+make all
 ```
 
 For stating the application run the following commands

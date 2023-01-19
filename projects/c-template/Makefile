@@ -31,6 +31,8 @@ build: $(DIST_DIR)/main
 
 rebuild: clean build
 
+all: rebuild
+
 # testing
 test-memory-1: rebuild
 	valgrind "$(DIST_DIR)/main"

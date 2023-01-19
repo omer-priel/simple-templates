@@ -13,7 +13,8 @@ In addion, update the year (2023) in LICENSE
 
 ### c-template
 
-A template for C projects. Support VS Code
+A template for C projects. Support VS Code and CLion
+This project based on Makefile. with src, bin, and dist folders.
 
 ## Author
 

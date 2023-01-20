@@ -5,6 +5,9 @@ See Roadmap.md for all the stages of this project.
 
 ## Requirements
 
+- yarn
+- node
+
 ## Get Started
 
 For get started run the following commands in the terminal:

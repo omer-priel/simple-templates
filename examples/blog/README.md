@@ -11,7 +11,7 @@ For get started run the following commands in the terminal:
 yarn run dev
 ```
 
-Open in browser the site <http:\\localhost:8000>
+Open in browser the site <http:\\localhost:3000>
 
 ## Links
 

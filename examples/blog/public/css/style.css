@@ -1,3 +1,15 @@
+h1 {
+  font-size: 34pt;
+}
+
+h2 {
+  font-size: 22pt;
+}
+
+p, div {
+  font-size: 16pt;
+}
+
 .header {
   width: 800px;
   height: 15vh;
@@ -9,6 +21,10 @@
   width: fit-content;
   margin: 0px auto;
   text-align: center;
+}
+
+.header .title h1 {
+  font-size: 42pt;
 }
 
 .header .header-menu {
@@ -30,13 +46,34 @@
 .header .header-menu li a {
   text-align: center;
   text-decoration: none;
+  font-size: 14pt;
 }
 
 .content {
   width: 800px;
-  height: 70vh;
+  min-height: 70vh;
   margin: 0px auto;
 }
+
+.content .authors .authors-list  {
+  display: inline;
+  max-width: 30%;
+  height: 150px;
+  float: left;
+}
+
+.content .authors .author-panel-container {
+  display: inline;
+  min-width: 70%;
+  height: 150px;
+  float: left;
+}
+
+.content .authors .author-panel-container .author-panel {
+  margin: auto;
+  width: max-content;
+}
+
 
 .footer {
   width: 800px;

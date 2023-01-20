@@ -13,6 +13,18 @@ yarn run dev
 
 Open in browser the site <http:\\localhost:8000>
 
+## Links
+
+- REAMEME - <https://www.makeareadme.com/>
+- MIT License - <https://en.wikipedia.org/wiki/MIT_License>
+- git: <https://git-scm.com/>
+- .gitignore - <https://git-scm.com/docs/gitignore>
+- EditorConfig: <https://editorconfig.org/>
+- NodeJS: <https://nodejs.org/en/>
+- NPM: <https://www.npmjs.com/>
+- Yarn: <https://yarnpkg.com/>
+- Express: <https://expressjs.com/>
+
 ## Author
 
 Omer Priel

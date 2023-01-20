@@ -1,6 +1,6 @@
 # Blog
 
-A example that created by stages. \
+A example web application that created by stages. \
 See Roadmap.md for all the stages of this project.
 
 ## Get Started

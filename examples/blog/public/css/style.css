@@ -1,0 +1,51 @@
+.header {
+  width: 800px;
+  height: 15vh;
+  margin: 0px auto;
+}
+
+.header .title h1,
+.header .title h2  {
+  width: fit-content;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.header .header-menu {
+  width: fit-content;
+  margin: 0px auto;
+}
+
+.header .header-menu ul {
+  padding-inline-start: 0px;
+  -webkit-padding-start: 0;
+  list-style-type: none;
+}
+
+.header .header-menu li {
+  display: inline;
+  padding: 14px 16px;
+}
+
+.header .header-menu li a {
+  text-align: center;
+  text-decoration: none;
+}
+
+.content {
+  width: 800px;
+  height: 70vh;
+  margin: 0px auto;
+}
+
+.footer {
+  width: 800px;
+  margin: 0px auto;
+}
+
+.footer div,
+.footer p {
+  width: fit-content;
+  margin: 0px auto;
+  text-align: center;
+}

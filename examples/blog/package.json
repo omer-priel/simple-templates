@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "A example web application that created by stages",
+  "main": "src/app.js",
+  "author": "Omer Priel",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
